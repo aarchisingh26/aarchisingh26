@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm Aarchi! 👋
-  <p>I like finance & code. 💸📈👩🏻‍💻</p>
+  <span className="text-sm">I like finance & code. 💸📈👩🏻‍💻</span>
 </h1>
 <h3 align="left">I'm an aspiring quant, studying Software Engineer @ University of Waterloo. 📚</h3>
 

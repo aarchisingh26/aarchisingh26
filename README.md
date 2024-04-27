@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aarchi! 👋</h1>
+<h1 align="left">Hi there, I'm Aarchi! 👋</h1>
 <h3 align="center">I'm an aspiring quant, studying Software Engineer @ University of Waterloo. 📚</h3>
 
 👩🏻‍💻 All of my projects are available at [https://github.com/aarchisingh26](https://github.com/aarchisingh26)

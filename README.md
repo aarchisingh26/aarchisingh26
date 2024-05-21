@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Aarchi! 👋
   <span className="text-sm">I like finance & code. 💸📈👩🏻‍💻</span>
 </h1>
-<h3 align="left">I'm an aspiring quant, studying Software Engineering @ University of Waterloo. 📚</h3>
+<h3 align="left">I'm an aspiring swe, studying Software Engineering @ University of Waterloo. 📚</h3>
 
 👩🏻‍💻 All of my projects are available at [https://github.com/aarchisingh26](https://github.com/aarchisingh26)
 

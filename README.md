@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Aarchi! 👋</h1>
 <h3 align="left">I'm an aspiring SWE, studying Software Engineering @ University of Waterloo. 📚</h3>
 
-🚀 Currently: SDE Intern @ Pinkbyte
+🚀 Currently: SDE Intern @ Pinkbyte<br />
 👩🏻‍💻 All of my projects are available at [https://github.com/aarchisingh26](https://github.com/aarchisingh26)
 
 <br />

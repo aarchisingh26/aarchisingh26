@@ -2,6 +2,7 @@
 <h3 align="left">I'm an aspiring SWE, studying Computer Science @ University of Waterloo. 📚</h3>
 
 🚀 Currently: SDE Intern @ Pinkbyte<br />
+💻 Visit my website at [aarchisingh.com](https://aarchisingh.vercel.app)<br />
 👩🏻‍💻 All of my projects are available at [https://github.com/aarchisingh26](https://github.com/aarchisingh26)
 
 <br />
